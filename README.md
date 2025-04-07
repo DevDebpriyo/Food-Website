@@ -1,6 +1,6 @@
 # 🍕 Basic Food Website  
 
-A simple **front-end food website** built using **HTML & CSS**. This project showcases a webpage with a clean design but **without responsiveness**.  
+A si mple **front-end food website** built using **HTML & CSS**. This project showcases a webpage with a clean design but **without responsiveness**.  
  
 ## 🚀 Features  
 ✅ **Basic HTML & CSS structure** 🍽️  
