@@ -5,7 +5,7 @@ A si mple **front-end food website** built using **HTML & CSS**. This project sh
 ## 🚀 Features   
 ✅ **Basic HTML & CSS structure** 🍽️  
 ✅ **Simple styling without responsiveness** 🎨  
- 
+  
 ## 📂 Technologies Used  
 - **HTML** – Structure of the website  
 - **CSS** – Basic styling and layout  
